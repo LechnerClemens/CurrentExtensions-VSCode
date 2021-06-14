@@ -1,3 +1,29 @@
 # CurrentExtensions-VSCode
 
-- Test
+- Cloudfoundry Manifest YML Support
+- Code Runner
+- Concourse CI Pipeline Editor
+- Debugger for Java
+- ES7 React/Redux/GraphQL/React-Native snippets
+- Java Extension Pack
+- Java Rest Runner
+- Jupyter
+- Language Support for JAVA(TM) by Red Hat
+- Live Server
+- Live Share
+- Lombok Annotations Support for VS Code
+- Maven for Java
+- MySQL
+- Project Manager for Java
+- Pylance
+- Python
+- Python Indent
+- Red Hat Commons
+- Spring Boot Dashboard
+- Spring Boot Extension Pacl
+- Spring Boot Tools
+- Spring Initializr Java Support
+- Visual Studio IntelliCode
+- vscode-pdf
+- vscode-spotify
+- XML
